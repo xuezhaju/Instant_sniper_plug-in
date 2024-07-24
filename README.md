@@ -7,6 +7,9 @@
 第三方库：
   主要为 tkinter 和 win32 系类
 
+注意：
+  使用时要使用 英文键盘 
+
 
 This is a rookie work for junior high school students ~~~
 I hope you can give corrections
